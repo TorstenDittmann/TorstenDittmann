@@ -13,7 +13,8 @@
 - [Twitter](https://twitter.com/dittmanntorsten)
 - [LinkedIn](https://linkedin.com/in/torstendittmann)
 
+### Language and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torstendittmann&layout=compact" alt="torstendittmann" /></p>
+![torstendittmann](https://github-readme-stats.vercel.app/api/top-langs/?username=torstendittmann&layout=compact&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torstendittmann&show_icons=true" alt="torstendittmann" /></p>
+![torstendittmann](https://github-readme-stats.vercel.app/api?username=torstendittmann&show_icons=true&theme=tokyonight)
