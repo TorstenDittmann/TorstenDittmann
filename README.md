@@ -1,6 +1,6 @@
 # Hi 👋, I'm Torsten Dittmann
 
-## A Full Stack Engineer from Germany
+## A Lead Engineer from Germany
 
 - 🔭 I’m currently working at [@Appwrite](https://github.com/appwrite)
 - 💬 Ask me about **Appwrite**
