@@ -2,7 +2,7 @@
 
 ## A Lead Engineer from Germany
 
-- 🔭 I’m currently working at [@Appwrite](https://github.com/appwrite)
+- 🔭 I’m currently working at [@appwrite](https://github.com/appwrite)
 - 💬 Ask me about **Appwrite**
 
 ### Connect with me:
